@@ -1,0 +1,16 @@
+@import 'tools/bourbon/bourbon';
+@import 'tools/neat/neat';
+@import 'tools/normalize';
+
+@import 'tools/ionicons';
+@import url(https://fonts.googleapis.com/css?family=Lato:100,200,400,300,700,900,400italic);
+
+html {
+	font-family: 'Lato', sans-serif;
+}
+
+@import 'partials/hero';
+
+@import 'partials/grid';
+
+@import 'partials/footer';
