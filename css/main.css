@@ -3342,7 +3342,7 @@ html {
     margin-left: auto;
     margin-right: auto;
     margin: auto;
-    padding: 7.5em;
+    padding: 10%;
     text-align: center; }
     .hero .hero-inner::after {
       clear: both;

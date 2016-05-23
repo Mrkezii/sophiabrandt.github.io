@@ -27,7 +27,7 @@
     @include outer-container;
     @include clearfix;
     margin: auto;
-    padding: 7.5em;
+    padding: 10%;
     text-align: center;
 
     .hero-copy {
@@ -52,6 +52,7 @@
           font-size: 1.1em;
           max-width: 40%;
         }
+
       }
     }
   }
